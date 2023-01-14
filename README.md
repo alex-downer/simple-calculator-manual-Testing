@@ -6,39 +6,39 @@ Testing the basic functionality of a calculator application and ensure that it i
 
 
 METHODOLOGY:
-1. The testing will be done manually by performing various calculations on the calculator and comparing the results with the expected outcomes.
-2. The testing will be done on a Windows 10 operating system using the latest version of Google Chrome browser.
+  1. The testing will be done manually by performing various calculations on the calculator and comparing the results with the expected outcomes.
+  2. The testing will be done on a Windows 10 operating system using the latest version of Google Chrome browser.
 
 
 
 TEST CASES:
-1. Test_1 -> Verify that the calculator can perform basic arithmetic operations (addition, subtraction, multiplication, and division) and return the correct results.
-2. Test_2 -> Verify that the calculator can perform more advanced mathematical operations (square root, square, cube root, and cube) and return the correct results.
-3. Test_3 -> Verify that the calculator can handle decimal numbers and return the correct results for calculations involving decimals.
-4. Test_4 -> Verify that the calculator can handle negative numbers and return the correct results for calculations involving negative numbers.
-5. Test_5 -> Verify that the calculator can handle large numbers and return the correct results for calculations involving large numbers.
+  1. Test_1 -> Verify that the calculator can perform basic arithmetic operations (addition, subtraction, multiplication, and division) and return the correct results.
+  2. Test_2 -> Verify that the calculator can perform more advanced mathematical operations (square root, square, cube root, and cube) and return the correct results.
+  3. Test_3 -> Verify that the calculator can handle decimal numbers and return the correct results for calculations involving decimals.
+  4. Test_4 -> Verify that the calculator can handle negative numbers and return the correct results for calculations involving negative numbers.
+  5. Test_5 -> Verify that the calculator can handle large numbers and return the correct results for calculations involving large numbers.
 
 
 
 TEST DATA:
-1. Basic arithmetic operations: a. [5+5], b. [10-5], c. [5*5], d. [20/5]
-2. Advanced mathematical operations: a. [√25], b. [5²], c. [√100], d. [5³]
-3. Decimal numbers: a. [5.5+5.5], b. [10.5-5.5], c. [5.5*5.5], d. [20.5/5.5]
-4. Negative numbers: a. [-5+5], b. [-10-5], c. [-5*5], d. [-20/5]
-5. Large numbers: a. [123,456,789+1,000,000], b. [123,456,789-1,000,000], c. [123,456,789*1,000,000], D. [123,456,789/1,000,000]
+  1. Basic arithmetic operations: a. [5+5], b. [10-5], c. [5*5], d. [20/5]
+  2. Advanced mathematical operations: a. [√25], b. [5²], c. [√100], d. [5³]
+  3. Decimal numbers: a. [5.5+5.5], b. [10.5-5.5], c. [5.5*5.5], d. [20.5/5.5]
+  4. Negative numbers: a. [-5+5], b. [-10-5], c. [-5*5], d. [-20/5]
+  5. Large numbers: a. [123,456,789+1,000,000], b. [123,456,789-1,000,000], c. [123,456,789*1,000,000], D. [123,456,789/1,000,000]
 
 
 
 EXPECTED RESULTS:
-1. Basic arithmetic operations: 10, 5, 25, 4
-2. Advanced mathematical operations: 5, 25, 2, 125
-3. Decimal numbers: 11, 5, 30.25, 3.727272727272727
-4. Negative numbers: 0, -15, -25, -4
-5. Large numbers: a. [10000000], b.[950000000], c.[25000000000000], d.[400000000]
+  1. Basic arithmetic operations: 10, 5, 25, 4
+  2. Advanced mathematical operations: 5, 25, 2, 125
+  3. Decimal numbers: 11, 5, 30.25, 3.727272727272727
+  4. Negative numbers: 0, -15, -25, -4
+  5. Large numbers: a. [10000000], b.[950000000], c.[25000000000000], d.[400000000]
 
 
 CONCLUSION:
-All test cases were successful, and the calculator application is operating as expected. The results showed the application can perform basic arithmetic operations, advanced mathematical operations, handle decimal numbers, negative numbers and large numbers correctly.
+  All test cases were successful, and the calculator application is operating as expected. The results showed the application can perform basic arithmetic operations, advanced mathematical operations, handle decimal numbers, negative numbers and large numbers correctly.
 
 
 
