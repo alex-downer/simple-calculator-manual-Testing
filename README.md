@@ -1,4 +1,4 @@
-# Demonstrating Manual Testing for a Simple Calculator Application
+# Manual Testing for a Simple Calculator Application
 
 
 ### OBJECTIVE
@@ -26,7 +26,7 @@
   2. Advanced mathematical operations: a. [√25], b. [5²], c. [√100], d. [5³]
   3. Decimal numbers: a. [5.5+5.5], b. [10.5-5.5], c. [5.5*5.5], d. [20.5/5.5]
   4. Negative numbers: a. [-5+5], b. [-10-5], c. [-5*5], d. [-20/5]
-  5. Large numbers: a. [123,456,789+1,000,000], b. [123,456,789-1,000,000], c. [123,456,789*1,000,000], D. [123,456,789/1,000,000]
+  5. Large numbers: a. [123,456,789+1,000,000], b. [123,456,789-1,000,000], c. [123,456,789*1,000], D. [123,456,789/1,000,000]
 
 
 
@@ -35,7 +35,7 @@
   2. Advanced mathematical operations: a. [5], b. [25], c. [2], d. [125]
   3. Decimal numbers: 11, 5, 30.25, 3.727272727272727
   4. Negative numbers: 0, -15, -25, -4
-  5. Large numbers: a. [10000000], b.[950000000], c.[25000000000000], d.[400000000]
+  5. Large numbers: a. [124,456,789], b.[122,456.789], c.[123,456,789,000], d.[123.456789]
 
 
 ### CONCLUSION:
