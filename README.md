@@ -1,12 +1,11 @@
 # Manual Testing for a Simple Calculator Application
+  ![CalculatorImage](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/calculator.JPG)
+
 
 
 ### OBJECTIVE
   Testing the basic functionality of a calculator application and ensure that it is working as expected.
   
-  ![CalculatorImage](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/calculator.JPG)
-
-
 
 ### METHODOLOGY:
   1. The testing will be done manually by performing various calculations on the calculator and comparing the results with the expected outcomes.
