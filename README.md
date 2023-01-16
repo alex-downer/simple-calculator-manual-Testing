@@ -13,8 +13,10 @@
   2. The testing will be done on a Windows 10 operating system using the latest version of Google Chrome browser.
 
 
-### Progress Report
+### PROGRESS REPORT
 ![ProgressReport](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/Progress%20report.JPG)
+
+### PROGRESS REPORT
 
 ### TEST CASES:
   1. Test_1 -> Verify that the calculator can perform basic arithmetic operations (addition, subtraction, multiplication, and division) and return the correct results.
