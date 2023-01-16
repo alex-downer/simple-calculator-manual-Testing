@@ -3,6 +3,8 @@
 
 ### OBJECTIVE
   Testing the basic functionality of a calculator application and ensure that it is working as expected.
+  
+  ![CalculatorImage](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/calculator.JPG)
 
 
 
