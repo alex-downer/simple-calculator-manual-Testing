@@ -1,22 +1,30 @@
 # Manual Testing for a Simple Calculator Application
  
-### Caculator Application to be Tested (https://www.theonlinecalculator.com/)
+### CACULATOR APP THAT WAS Tested (https://www.theonlinecalculator.com/)
 ![CalculatorImage](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/calculator.JPG)
+
+
+### PROGRESS REPORT
+![ProgressReport](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/Progress%20report.JPG)
+
+
+
+### TEST SUITE
+![TestSuite](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/Test%20Suite.JPG)
+
+
 
 
 ### OBJECTIVE
   Testing the basic functionality of a calculator application and ensure that it is working as expected.
-  
+
+
 
 ### METHODOLOGY:
   1. The testing will be done manually by performing various calculations on the calculator and comparing the results with the expected outcomes.
   2. The testing will be done on a Windows 10 operating system using the latest version of Google Chrome browser.
 
 
-### PROGRESS REPORT
-![ProgressReport](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/Progress%20report.JPG)
-
-### PROGRESS REPORT
 
 ### TEST CASES:
   1. Test_1 -> Verify that the calculator can perform basic arithmetic operations (addition, subtraction, multiplication, and division) and return the correct results.
