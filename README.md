@@ -9,12 +9,6 @@
 
 
 
-### TEST SUITE
-![TestSuite](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/Test%20Suite.JPG)
-
-
-
-
 ### OBJECTIVE
   Testing the basic functionality of a calculator application and ensure that it is working as expected.
 
@@ -23,6 +17,11 @@
 ### METHODOLOGY:
   1. The testing will be done manually by performing various calculations on the calculator and comparing the results with the expected outcomes.
   2. The testing will be done on a Windows 10 operating system using the latest version of Google Chrome browser.
+
+
+
+### TEST SUITE
+![TestSuite](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/Test%20Suite.JPG)
 
 
 
