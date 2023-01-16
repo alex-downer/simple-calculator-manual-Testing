@@ -2,6 +2,9 @@
   ![CalculatorImage](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/calculator.JPG)
 
 
+### Progress Report
+![ProgressReport](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/Progress%20report.JPG)
+
 
 ### OBJECTIVE
   Testing the basic functionality of a calculator application and ensure that it is working as expected.
