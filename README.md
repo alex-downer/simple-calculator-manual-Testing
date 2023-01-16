@@ -4,7 +4,7 @@
 ![CalculatorImage](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/calculator.JPG)
 
 
-### PROGRESS REPORT
+### PROGRESS REPORT (Number of test cases that pass, fail, block etc.)
 ![ProgressReport](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/Progress%20report.JPG)
 
 
@@ -20,8 +20,8 @@
 
 
 
-### TEST SUITE
-![TestSuite](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/Test%20Suite.JPG)
+### TEST GUIDE (test cases, test steps, expected results, actual results etc.)
+![TestSuite](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/simple-calculator-application-test-guide.pdf)
 
 
 
