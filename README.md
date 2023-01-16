@@ -1,6 +1,10 @@
 # Manual Testing for a Simple Calculator Application
  
-### **CACULATOR APP THAT WAS Tested (https://www.theonlinecalculator.com/)**
+
+Calculatoe App -> (https://www.theonlinecalculator.com/)
+
+
+### **CACULATOR APP GUI**
 ![CalculatorImage](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/calculator.JPG)
 
 
