@@ -1,8 +1,8 @@
 # Manual Testing for a Simple Calculator Application
  
-### Caculator Application to be Tested 
+### Caculator Application to be Tested (https://www.theonlinecalculator.com/)
 ![CalculatorImage](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/calculator.JPG)
-(https://www.theonlinecalculator.com/)
+
 
 ### OBJECTIVE
   Testing the basic functionality of a calculator application and ensure that it is working as expected.
