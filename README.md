@@ -21,7 +21,7 @@
 
 
 ### TEST GUIDE (test cases, test steps, expected results, actual results etc.)
-![TestSuite](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/simple-calculator-application-test-guide.pdf)
+![TestGuide](https://github.com/alex-downer/simple-calculator-manual-Testing/blob/main/image/simple-calculator-application-test-guide.pdf)
 
 
 
