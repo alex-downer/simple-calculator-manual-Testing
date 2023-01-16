@@ -27,7 +27,7 @@
 
 ### TEST CASES:
   1. Test_1 -> Verify that the calculator can perform basic arithmetic operations (addition, subtraction, multiplication, and division) and return the correct results.
-  2. Test_2 -> Verify that the calculator can perform more advanced mathematical operations (square root, square, cube root, and cube) and return the correct results.
+  2. Test_2 -> Verify that the calculator can perform more advanced mathematical operations (square root, square, displaying pie as [π= 3.141592654], and rounding      up/down to two/one decimal place) and return the correct results.
   3. Test_3 -> Verify that the calculator can handle decimal numbers and return the correct results for calculations involving decimals.
   4. Test_4 -> Verify that the calculator can handle negative numbers and return the correct results for calculations involving negative numbers.
   5. Test_5 -> Verify that the calculator can handle large numbers and return the correct results for calculations involving large numbers.
@@ -36,7 +36,7 @@
 
 ### TEST DATA:
   1. Basic arithmetic operations: a. [5+5], b. [10-5], c. [5*5], d. [20/5]
-  2. Advanced mathematical operations: a. [√25], b. [5²], c. [√100], d. [5³]
+  2. Advanced mathematical operations: a. [√25], b. [5²], c. 25, d. N/A, C1. 25.888, C2.25.123, D1. 25.888, D2.25.123
   3. Decimal numbers: a. [5.5+5.5], b. [10.5-5.5], c. [5.5*5.5], d. [20.5/5.5]
   4. Negative numbers: a. [-5+5], b. [-10-5], c. [-5*5], d. [-20/5]
   5. Large numbers: a. [123,456,789+1,000,000], b. [123,456,789-1,000,000], c. [123,456,789*1,000], D. [123,456,789/1,000,000]
