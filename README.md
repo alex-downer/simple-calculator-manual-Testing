@@ -1,7 +1,7 @@
 # Manual Testing for a Simple Calculator Application
  
 
-Calculatoe App -> (https://www.theonlinecalculator.com/)
+Calculator App Link -> (https://www.theonlinecalculator.com/)
 
 
 ### **CACULATOR APP GUI**
